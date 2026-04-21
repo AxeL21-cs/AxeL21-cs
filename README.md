@@ -1,137 +1,86 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Antonio%20Axellance%20H.%20Paco%20IIII&fontSize=34&fontAlignY=40&color=0:4c1d95,50:6d28d9,100:7c3aed&fontColor=ffffff&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Computer%20Science%20Student%20%7C%20Builder&descAlignY=60&descSize=18" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+the+University+of+Santo+Tomas;Aspiring+AI%2FML+Engineer;Building+practical+software+with+real-world+impact;Learning+Python%2C+Java%2C+Data+Science%2C+and+Cloud)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=AxeL21-cs&style=for-the-badge&color=6d28d9" />
-<img src="https://img.shields.io/github/followers/AxeL21-cs?style=for-the-badge&color=7c3aed" />
-<img src="https://img.shields.io/github/stars/AxeL21-cs?style=for-the-badge&color=5b21b6" />
-
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=8A2BE2&height=200&section=header&text=Hi,%20I'm%20Antonio%20Paco%20IIII%20👋&fontSize=40&animation=fadeIn" />
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Role-Aspiring%20AI/ML%20Engineer-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Education-BS%20Computer%20Science%20(Data%20Science)-9370DB?style=for-the-badge&logo=university&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-DOST%20Merit%20Scholar-6A5ACD?style=for-the-badge&logo=scholarship&logoColor=white" />
+  </p>
 </div>
 
 ---
 
-## About Me
+### 🌌 About Me
+I am a first-year **Computer Science student specializing in Data Science** at the University of Santo Tomas. I sit at the intersection of software development and data intelligence, driven by a passion for building AI-driven solutions that solve real-world problems.
 
-I’m a **Computer Science student at the University of Santo Tomas** with a growing focus on **AI, machine learning, and software development**.
+Beyond coding, I am heavily involved in student leadership and community building, focusing on external partnerships and technical coordination. I believe that the best AI is built not just with great data, but with great collaboration.
 
-I’m currently building my foundations in **Python, Java, JavaScript, TypeScript, SQL, and AWS**, while developing projects that solve practical problems and improve user experience. Alongside technical work, I’ve also taken on leadership roles in student organizations involving **external partnerships, communication, and event coordination**.
-
-My goal is simple: **become an AI/ML engineer who builds systems that are useful, reliable, and impactful**.
-
----
-
-## Current Focus
-
-- Building stronger foundations in **AI/ML, data science, and software engineering**
-- Improving my skills in **Python** and real-world project development
-- Exploring how **AI can be applied to practical community and business problems**
-- Growing through projects, hackathons, leadership, and continuous learning
+- 🚀 **Currently focusing on:** Deepening my knowledge in Neural Networks, PyTorch, and AWS Cloud architecture.
+- 🎓 **Scholarships:** Proud recipient of the **DOST-SEI**, **Datacamp**, and **AWS AI/ML** scholarships.
+- 🏛️ **Leadership:** Executive staff in the ICS Student Council and UST Technovation Society.
+- ⚡ **Goal:** To develop scalable ML models that promote transparency and efficiency in industry workflows.
 
 ---
 
-## Tech Stack
+### 🛠️ Technical Toolbox
+
+<div align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+  <br/>
+  <!-- AI/ML & Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI/ML-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-9370DB?style=flat-square&logo=pandas&logoColor=white" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+#### 🛡️ [Veritask](https://cssprintveritask.vercel.app)
+*Recursive Bias Correction Model for MSEs' Credit Worthiness*
+- **Tech:** React, TypeScript, Zustand, Vercel.
+- **Highlight:** Won **5th place** at the UST CSSprint Hackathon. An HR management tool designed to centralize workflows and promote workplace integrity.
+
+#### 🎓 [MyUste Portal](https://github.com/AxeL21-cs/myuste-latin-honors-google-extension)
+*Latin Honor Tracker Chrome Extension*
+- **Tech:** Chrome Extension APIs, DOM Manipulation, Client-Side Storage.
+- **Highlight:** A tool for students to forecast academic performance and track eligibility for Latin Honors using a custom forecasting model.
+
+---
+
+### 🏆 Achievements & Experience
+- 🌍 **International:** Participant in the "Gemin-I Can't Even" GDG Singapore Hackathon.
+- 🎖️ **Local:** 5th Place, UST CSSprint 2025.
+- 👥 **Leadership:** Executive Associate to the Chief Relations Officer, UST Technovation Society.
+
+---
+
+### 📈 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AxeL21-cs&show_icons=true&theme=radical&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff" alt="Antonio's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxeL21-cs&layout=compact&theme=radical&hide_border=true&title_color=8A2BE2&text_color=ffffff" alt="Top Languages" />
+</div>
+
+---
+
+### 📫 Get in Touch
+<p align="left">
+<a href="mailto:antonioaxellancepaco@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,tailwind,aws,git,github,mysql,vscode" />
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
-
----
-
-## Featured Projects
-
-### Veritask
-**All-in-one HR and employee management web app** built as a hackathon entry.
-
-**Tech used:** JavaScript, TypeScript, HTML, CSS, Tailwind CSS, React, Zustand, Vercel
-
-- Centralized workflows for employees, HR, and management
-- Designed to support transparency, accountability, and workplace efficiency
-- Achieved **5th Place in UST CSSprint 2025**
-
-**Links:**  
-- [Live Demo](https://cssprintveritask.vercel.app)  
-- [Repository](https://github.com/AxeL21-cs/Veritask-by-Arrayscaldo)
-
----
-
-### MyUSTe Portal: Latin Honor Tracker
-A **Chrome extension** that helps students track academic performance and estimate eligibility for Latin honors.
-
-**Tech used:** HTML, CSS, Chrome Extension APIs, DOM Manipulation, Client-Side Storage
-
-- Extracts and processes grades directly from the portal
-- Computes cumulative averages and forecasts required grades
-- Provides dynamic academic feedback through a user-friendly interface
-
-**Links:**  
-- [Repository](https://github.com/AxeL21-cs/myuste-latin-honors-google-extension)
-
----
-
-## Achievements
-
-- **DOST-SEI Scholar**
-- **Dean’s List – 1st Term**
-- **AWS AI/ML Scholar**
-- **Datacamp Scholar**
-- **5th Place – UST CSSprint 2025**
-
----
-
-## Leadership & Involvement
-
-- Executive Staff, **ICS Student Council**
-- External Affairs Staff, **UST Computer Science Society**
-- Member, **UST AWS Learning Club**
-- Member, **UST Technovation Society – Research Division**
-- Executive Associate to the Chief Relations Officer, **UST Technovation Society**
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AxeL21-cs&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxeL21-cs&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img height="170" src="https://streak-stats.demolab.com?user=AxeL21-cs&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AxeL21-cs&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## Goals
-
-I want to work at the intersection of:
-
-- **Artificial Intelligence / Machine Learning**
-- **Software Engineering**
-- **Data-Driven Systems**
-- **Community-Centered Technology**
-
-Right now, I’m focused on learning fast, building consistently, and turning solid fundamentals into real technical depth.
-
----
-
-## Connect With Me
-
-- **Email:** antonioaxellancepaco@gmail.com
-- **GitHub:** [github.com/AxeL21-cs](https://github.com/AxeL21-cs)
-- **LinkedIn:** [https://www.linkedin.com/in/antonioaxellancepaco/](#)
-
----
