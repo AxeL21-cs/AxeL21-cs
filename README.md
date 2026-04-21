@@ -113,12 +113,12 @@ A **Chrome extension** that helps students track academic performance and estima
 ---
 
 ## Leadership & Involvement
-
-- Executive Staff, **ICS Student Council**
-- External Affairs Staff, **UST Computer Science Society**
-- Member, **UST AWS Learning Club**
-- Member, **UST Technovation Society – Research Division**
-- Executive Associate to the Chief Relations Officer, **UST Technovation Society**
+2025-2026:
+  - Executive Staff, **ICS Student Council**
+  - External Affairs Staff, **UST Computer Science Society**
+  - Member, **UST AWS Learning Club**
+  - Member, **UST Technovation Society – Research Division**
+  - Executive Associate to the Chief Relations Officer, **UST Technovation Society**
 
 ---
 
