@@ -1,4 +1,4 @@
-# Hi there 👋
+# WELCOME TO MY PROFILE!!! 
 
 <!--
 **AxeL21-cs/AxeL21-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,9 +50,23 @@ My goal is simple: **become an AI/ML engineer who builds systems that are useful
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,react,html,css,tailwind,aws,git,github,mysql,vscode" />
-
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white" />
+  <br/>
+  <!-- AI/ML & Cloud -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Science-9370DB?style=flat-square&logo=pandas&logoColor=white" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </div>
 
 ---
@@ -129,6 +143,13 @@ A **Chrome extension** that helps students track academic performance and estima
 
 </div>
 
+## 🏅 Certifications & Recognition
+
+<div align="left">
+  <img src="https://cdn.getblueshift.com/bee/images/ed5b8755-0989-4944-9ca5-287bb68e4a22/Challenge%20Completion%20Badge_Light.png" alt="AWS AI & ML Scholars - 2026 Challenge Completion Badge" width="160" />
+</div>
+
+- **AWS AI & ML Scholars – 2026 Challenge Completion**
 ---
 
 ## Goals
